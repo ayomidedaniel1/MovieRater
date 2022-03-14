@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MovieRater",
+    "slug": "MovieRater",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MovieRater"
+}
